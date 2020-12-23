@@ -1,5 +1,5 @@
 [package]
-name = "quick-server"
+name = "quick_server"
 description = "base native libs"
 version = "0.0.0"
 authors = ["sanmu <hdy9515@dingtalk.com>"]
